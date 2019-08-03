@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">INGRESO</string>
+    <string name="app_name">Ingreso</string>
+    <string name="app_home">Home</string>
 </resources>

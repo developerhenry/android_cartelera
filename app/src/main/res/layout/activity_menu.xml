@@ -6,4 +6,18 @@
     android:layout_height="match_parent"
     tools:context=".Menu">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Inicio"
+            android:onClick="onClickIncio"/>
+    </LinearLayout>
 </android.support.constraint.ConstraintLayout>
