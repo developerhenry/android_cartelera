@@ -45,5 +45,16 @@
             android:onClick="onClickIngresar"
             android:text="INGRESAR" />
 
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimaryDark"
+            android:padding="5dp"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:text="Registrase"
+            android:onClick="onClickRegistroUsuario"/>
+
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>

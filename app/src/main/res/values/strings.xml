@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Ingreso</string>
     <string name="app_home">Home</string>
+    <string name="app_registro">Registro</string>
 </resources>

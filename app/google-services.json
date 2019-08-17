@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631764666202",
+    "firebase_url": "https://cartelera-86259.firebaseio.com",
+    "project_id": "cartelera-86259",
+    "storage_bucket": "cartelera-86259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631764666202:android:24d0d86fc29f8c53",
+        "android_client_info": {
+          "package_name": "com.example.et.mycartelera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631764666202-svgnh90ik7mdfjpcjedovih1qnveka08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCImOayZdw7FpHcGsDTtvybKx0QUttW_PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631764666202-svgnh90ik7mdfjpcjedovih1qnveka08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
